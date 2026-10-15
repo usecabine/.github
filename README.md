@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://usecabine.com/assets/social-covers/cabine-github-social-preview.jpg" alt="Cabine - Intelligence Platform for Conference Interpreting" width="100%" />
+<img src="https://usecabine.com/assets/og-card.png" alt="Cabine - The operating system for conference interpreting" width="100%" />
 
 # Cabine
 
